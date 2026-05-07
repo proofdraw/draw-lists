@@ -1,0 +1,9 @@
+# Sealed list files MUST keep their exact byte content.
+# LF line endings only — preventing Windows checkouts from silently
+# converting LF -> CRLF and breaking SHA-256 verification.
+sha256/*.txt text eol=lf
+
+# Markdown / config: normal text handling.
+*.md text
+*.gitattributes text
+LICENSE text
