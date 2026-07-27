@@ -1,0 +1,8 @@
+# proofdraw v2
+# draw: DCTP
+# chain: quicknet
+# round: 30769034
+# round_time: 2026-07-27T00:01:06Z
+# entries: 2
+BEES-UNFCN91Z
+BEES-N02NEEIG
