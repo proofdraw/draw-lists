@@ -1,0 +1,9 @@
+# proofdraw v2
+# draw: SXR4
+# chain: quicknet
+# round: 32815024
+# round_time: 2026-10-06T01:00:36Z
+# entries: 3
+EYTM-AY7W8P2J
+EYTM-0BOGU84T
+EYTM-EF7ERUBC
