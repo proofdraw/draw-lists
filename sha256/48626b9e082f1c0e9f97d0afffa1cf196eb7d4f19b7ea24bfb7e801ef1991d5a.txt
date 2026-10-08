@@ -1,0 +1,8 @@
+# proofdraw v2
+# draw: TB77
+# chain: quicknet
+# round: 32892902
+# round_time: 2026-10-08T17:54:30Z
+# entries: 2
+OELX-WNW9YP2S
+OELX-G2YF6IOD
