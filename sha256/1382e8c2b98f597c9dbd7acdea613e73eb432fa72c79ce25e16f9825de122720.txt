@@ -1,0 +1,8 @@
+# proofdraw v2
+# draw: 0XS2
+# chain: quicknet
+# round: 33002224
+# round_time: 2026-10-12T13:00:36Z
+# entries: 2
+TEE5-ZJ7TVJDS
+TEE5-FRFVMN4E
